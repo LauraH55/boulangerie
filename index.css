@@ -1,0 +1,25 @@
+body {
+  color:black;
+  background-color:seashell;
+  background:url('images/boulangerie.jpg') no-repeat top center;
+  background-size: cover;
+  width:100%;
+}
+
+.info {
+  font-family: 'Lobster Two', cursive;
+
+}
+
+.jumbotron {
+  background-color:#EC9E41;
+  font-family: 'Lobster Two', cursive;
+
+}
+
+.page-footer {
+  margin: 0;
+  padding: 1.5rem;
+
+
+}
