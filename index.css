@@ -11,6 +11,11 @@ body {
 
 }
 
+.home-text {
+  font-family: 'Satisfy', cursive;
+  font-size: 1.5em;
+}
+
 .jumbotron  {
 
   background-color: rgb(236, 158, 65, 0.6);
