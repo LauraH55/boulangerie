@@ -11,15 +11,43 @@ body {
 
 }
 
-.jumbotron {
-  background-color:#EC9E41;
+.jumbotron  {
+
+  background-color: rgb(236, 158, 65, 0.6);
   font-family: 'Lobster Two', cursive;
+  text-decoration: none;
+  text-align: center;
+  color: black !important;
 
 }
+a.title{
 
+  font-family: 'Lobster Two', cursive;
+  text-decoration: none;
+  text-align: center;
+  color: black !important;
+
+}
 .page-footer {
   margin: 0;
   padding: 1.5rem;
 
+
+
+}
+
+.style {
+  margin-bottom: 2rem;
+}
+
+.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+
+}
+
+.intro{
+  background-color: rgb(255,255,255, 0.5);
 
 }
